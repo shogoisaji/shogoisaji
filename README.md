@@ -4,7 +4,9 @@
 
   <p>Mobile & Frontend Engineer</p>
   <p>Building native apps and delightful experiences.</p>
-
+<p>
+  <img src="https://skillicons.dev/icons?i=swift,react,ts,flutter,rust,cloudflare,aws&theme=dark" alt="Tech Stack" />
+</p>
   <p align="center">
     <a href="https://github.com/shogoisaji"><img
       width="55%"
